@@ -9,6 +9,9 @@
 # Exclude project-specifics folder
 .idea/
 
+# Exclude node module
+node_modules/
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml

@@ -1,0 +1,23 @@
+{
+  "name": "codtracker",
+  "version": "1.0.0",
+  "description": "A utility to retrieve daily player statistics for the \"call of duty\" (cod) games",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "run": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawan-bilkhu/codTracker.git"
+  },
+  "author": "Pawan Bilkhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawan-bilkhu/codTracker/issues"
+  },
+  "homepage": "https://github.com/pawan-bilkhu/codTracker#readme",
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  }
+}
